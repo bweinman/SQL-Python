@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS jurl (
+    id integer PRIMARY KEY,
+    shortURL VARCHAR(32) UNIQUE NOT NULL,
+    targetURL VARCHAR(128) NOT NULL
+)
