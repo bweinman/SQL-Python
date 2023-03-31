@@ -1,2 +1,2 @@
 # SQL-Python
-Exercise files for SQL with Python course
+Exercise files for my SQL with Python course
